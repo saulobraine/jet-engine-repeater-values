@@ -103,7 +103,7 @@ class Elementor_Dynamic_Tag_Jet_Engine_Repeater_Text extends \Elementor\Core\Dyn
         }
 
         if ($field) {
-            $result = jet_engine()->data->get_meta($field);
+            $result = jet_engine()->listings->data->get_meta($field);
         }
 
         // attempting to bind an invalid key such as a gallery

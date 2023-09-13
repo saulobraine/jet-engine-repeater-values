@@ -36,21 +36,25 @@ The name is defined next to the label in the list of fields.
 
 # Changelog
 
-1.3 - 13th September 2023
+1.3.1 - 13th September 2023
+
+- Hotfix on call get_meta function
+
+  1.3 - 13th September 2023
 
 - Added support for Elementor 3.16.1+ versions
 
-1.2.beta.1 - 18th March 2022
+  1.2.beta.1 - 18th March 2022
 
 - Initial support for JetEngine checkbox meta fields, as discussed here:
   https://github.com/rtpHarry/jet-engine-repeater-values/issues/2
 
-1.1.1 - 19th December 2021
+  1.1.1 - 19th December 2021
 
 - Bugfix - Tweak dynamic tag names so they don't clash when a field supports
   all category types
 
-1.1.0 - 19th December 2021
+  1.1.0 - 19th December 2021
 
 - Added licence
 - Added readme
@@ -62,7 +66,7 @@ The name is defined next to the label in the list of fields.
 - Added support for image fields
 - Added support for media fields
 
-1.0.0 - 13th December 2021
+  1.0.0 - 13th December 2021
 
 - Initial release
 - Supports text fields

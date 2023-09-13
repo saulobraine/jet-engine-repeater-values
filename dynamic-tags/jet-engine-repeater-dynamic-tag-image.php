@@ -100,7 +100,7 @@ class Elementor_Dynamic_Tag_Jet_Engine_Repeater_Image extends \Elementor\Core\Dy
         }
 
         if ($field) {
-            $value = jet_engine()->data->get_meta($field);
+            $value = jet_engine()->listings->data->get_meta($field);
         }
 
         if (empty($value)) {
